@@ -1,0 +1,3 @@
+# Tetris
+
+This is my first game, tetris, written in C/C++ using raylib. I am still learning.....
